@@ -1,4 +1,4 @@
-# Aplicação Fullstack: Cardápio - _Backend_ 🔚
+# Aplicação Fullstack: Cardápio - _Frontend_ 
 
 ![image](https://user-images.githubusercontent.com/82117471/234935747-4afbe644-63de-4b60-81b5-8d595f4b413b.png)
 
